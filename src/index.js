@@ -242,7 +242,7 @@ Workflow.propTypes = {
 };
 Workflow.defaultProps = {
   prefixCls: 'workflow',
-  lineColor: '#09f',
+  lineColor: 'red',
   options: {},
   onSelect: () => {}
 };
